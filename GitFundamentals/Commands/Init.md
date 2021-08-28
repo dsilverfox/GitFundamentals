@@ -1,5 +1,5 @@
 # git init
-The 'git init' command is used to create an empty git repository.
+The `git init` command is used to create an empty git repository.
 
 If you wanted to create a new directory and initialize a git reponsitory, you can do so with the following commands:
 ```
@@ -9,10 +9,10 @@ git init
 ```
 
 Once inside a git reponsitory, you can start using commands such as
-[status](./Status.md)
-[add]{./Add.md}
-[commit](./Commit.md)
-[push](./Push.md)
+[status](./Status.md),
+[add](./Add.md),
+[commit](./Commit.md),
+[push](./Push.md),
 and more
 
 Init will create a repository in the current directory and will encapsulate all content, including other directories.
